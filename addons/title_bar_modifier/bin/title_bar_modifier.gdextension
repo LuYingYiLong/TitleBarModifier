@@ -7,3 +7,4 @@ reloadable = true
 [libraries]
 
 windows.debug.x86_64 = "libgdexample.windows.template_debug.x86_64.dll"
+windows.release.x86_64 = "libgdexample.windows.template_debug.x86_64.dll"
