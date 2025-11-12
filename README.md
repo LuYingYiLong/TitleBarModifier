@@ -1,5 +1,5 @@
 # Title bar modifier
-A simple Windows window title bar color modifier
+A simple Windows window title bar modifier, This plugin can modify the window title bar color and hide or show the title bar.
 ## How to use
 Download the files and add them into your godot project, Add `TitleBarModifier` node in your node tree, And reference it in your script, using `set_title_bar_color` method to change the title bar color.
 ## Supported Platforms
